@@ -4,4 +4,4 @@ python: 3.5
 
 install: pip install -r requirements.txt
 
-script: python rpn_test.py
+script: python test_rpn.py
